@@ -1,4 +1,8 @@
 # Approximation-Algorithms-1
+I will be adding implementations of the approximation algorithms given
+in the [Coursera
+Class](https://www.coursera.org/learn/approximation-algorithms-part-1/home/welcome)
+presented by Claire Mathieu.
 
 ## Week 1 - Vertex Cover and Linear Programming
 
